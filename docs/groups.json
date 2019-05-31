@@ -161,6 +161,9 @@
         },
         {
           "path": "json/fn_arrows.json"
+        },
+        {
+          "path": "json/pc_style_addendum.json"
         }
       ]
     },
